@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Calil! 👋
 
-<!--
-**joaocalil26/joaocalil26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Eletricista Industrial | 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Full-Stack
 
-Here are some ideas to get you started:
+Com quase 7 anos de experiência no setor elétrico industrial (de Aprendiz a Eletricista I), trago a bagagem da resolução de problemas complexos do chão de fábrica para o desenvolvimento de software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje, aplico a lógica da engenharia para construir aplicações web completas, eficientes e escaláveis.
+
+---
+
+### 🚀 Minha Stacks & Ferramentas
+* **Front-End:** React, JavaScript, HTML5, CSS3, Tailwind
+* **Back-End:** Node.js, Express, PHP, Laravel, APIs RESTful
+* **Banco de Dados:** PostgreSQL, MySQL
+* **Ferramentas:** Git, GitHub, Docker, Inversores & Automação Industrial
+
+---
+
+### 📬 Vamos nos conectar?
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jcalil/
+- 📧 **E-mail:** joaoalfredotop@gmail.com
