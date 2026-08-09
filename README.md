@@ -19,3 +19,7 @@ Hoje, aplico a lógica da engenharia para construir aplicações web completas, 
 ### 📬 Vamos nos conectar?
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jcalil/
 - 📧 **E-mail:** joaoalfredotop@gmail.com
+
+
+![Static Badge](https://img.shields.io/badge/student-software%20engineering-8A2BE2
+)
