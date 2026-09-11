@@ -5,7 +5,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcalil/)
   [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joaocalildev.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoalfredotop@gmail.com)
-  [![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Student-6f42c1?style=for-the-badge&logo=github)](https://github.com/joaocali126)
+  [![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Student-6f42c1?style=for-the-badge&logo=github)](https://github.com/joaocalil26)
 </div>
 
 <br />
